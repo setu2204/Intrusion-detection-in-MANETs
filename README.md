@@ -1,0 +1,2 @@
+# Intrusion-detection-in-MANETs
+MANET'S have a dynamic topology, distributed operation and limited bandwidth and are vulnerable to many attacks. In this MS Power Presenstation, we discuss MANET and its characteristics, challenges, advantages, application, security goals, various types of security attacks in its routing protocols.Different security mechanisms are introduced in order to prevent such network attacks.
